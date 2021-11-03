@@ -11,7 +11,7 @@ Some packages will be used in this project, they are listed as followed:
 - `serde_json = 1`;
 - `serde_derive = 1`;
 - `chrono = 0.4`;
-- `sysinfo = 0.16.4`;
+- `sysinfo = 0.20`;
 
 # What does it look like?
 
